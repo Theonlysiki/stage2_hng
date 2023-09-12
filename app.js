@@ -17,7 +17,7 @@ main()
     app.listen(PORT, () => {
         console.log(`Server is running on port ${PORT}.`);
       });
-      return console.log("DB connected...");
+      return console.log("DB is connected...");
 }).catch(console.error)
 
 
