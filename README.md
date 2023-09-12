@@ -21,7 +21,7 @@ To run this API on your local machine, follow these steps:
 - Clone this repository to your local machine:
 
   ```bash
-  git clone https://github.com/Theonlysiki/stage2-hng.git
+  git clone https://github.com/Theonlysiki/stage2_hng.git
 
   ```
 
@@ -79,7 +79,7 @@ Base URL: http://localhost:5000
 - Endpoint: DELETE /api/persons/:user_id
 
 ## UML Diagrams
-<Link to diagrams>
+- https://drive.google.com/file/d/15QNPsNnYbnOnkbfovb_DETh7OcAn_a_l/view?usp=drive_link
 
 
 
