@@ -1,0 +1,26 @@
+{
+  "name": "hng",
+  "version": "1.0.0",
+  "description": "- [Getting Started](#getting-started)\r   - [Installation](#installation)\r   - [Configuration](#configuration)\r   - [Database Setup](#database-setup)\r - [Usage](#usage)\r - [Endpoints](#endpoints)\r - [UML Diagrams](#uml-diagrams)",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "moment-timezone": "^0.5.43",
+    "mongodb": "^6.0.0",
+    "mongoose": "^7.5.1",
+    "nodemon": "^3.0.1",
+    "validator": "^13.11.0"
+  },
+  "engines": {
+    "node": ">=14.20.1"
+  }
+}
